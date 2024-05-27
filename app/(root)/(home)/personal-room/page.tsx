@@ -1,10 +1,10 @@
 import React from 'react'
 
-const HomePage = () => {
+const PersonalRoom = () => {
   return (
     <section className='flex size-full flex-col gap-10 text-white'>
       <h1 className='text-3xl font-bold'>
-        Home
+       Personal Room
       </h1>
 
       
@@ -12,4 +12,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default PersonalRoom
